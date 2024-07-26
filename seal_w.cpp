@@ -1,4 +1,4 @@
-#include "seal_wrapper.h"
+#include "seal_w.h"
 #include <seal/seal.h>
 #include <string>
 #include <cstring>
